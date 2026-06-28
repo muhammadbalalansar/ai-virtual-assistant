@@ -1,0 +1,11 @@
+__pycache__
+build
+.vim
+.vscode
+x.py 
+test.py
+*.log
+*.pickle 
+test.py
+test_main.py
+
