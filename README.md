@@ -1,4 +1,6 @@
-AI virtual assitant    by Muhammad Balal Ansar<img width="1366" height="768" alt="jarvis welcome screen" src="https://github.com/user-attachments/assets/9647740e-1c3b-4833-8790-797bb69e871b" />
+**AI virtual assitant    by Muhammad Balal Ansar**
+
+<img width="1366" height="768" alt="jarvis welcome screen" src="https://github.com/user-attachments/assets/9647740e-1c3b-4833-8790-797bb69e871b" />
 
 It is a terminal-based virtual assistant especially made for competitive programming. It has a lot of features, including running python or c++ file, parsing problem set with test cases and test against all the cases in one click, test with brute force solution, and many more. It will help you to boost your programming skill and help you to do a good performance in the programming contest.
 
