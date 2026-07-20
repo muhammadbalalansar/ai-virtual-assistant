@@ -98,7 +98,6 @@ jarvis -cp listen
 
 or,
 
-
 Cp listen
 
 Here -cp represent competitive programming,
