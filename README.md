@@ -1,5 +1,5 @@
 **AI Virtual Assitant  By Muhammad Balal Ansar**
-**Ai virtual assistant
+**Ai virtual assistant by
 
 <img width="1366" height="768" alt="jarvis welcome screen" src="https://github.com/user-attachments/assets/9647740e-1c3b-4833-8790-797bb69e871b" />
 
