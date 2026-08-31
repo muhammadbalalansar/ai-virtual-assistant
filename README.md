@@ -420,7 +420,6 @@ and
 
 pip3 install ai-virtual-assistant
 
-
 I recommand after installing checkout the config file. The config can be open by the given command,
 
 jarvis -config
