@@ -425,7 +425,6 @@ I recommand after installing checkout the config file. The config can be open by
 
 jarvis -config
 
-
 N.B : It works fine on Linux. It also should work on Mac os. Unfortunately, it has some problems with windows. If you want to install on windows, you have to install it via WSL(Windows Subsystem for Linux).
 
 If you want to contribute on this project you are welcome.
