@@ -8,7 +8,6 @@ It is a terminal-based virtual assistant especially made for competitive program
 
 It can give voice reply and take your voice command. You can turn off or on these features. Basic settings can be easily changed from config option.
 
-
 For installing write the given commands,
 
 pip3 install wheel
