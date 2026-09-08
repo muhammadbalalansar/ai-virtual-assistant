@@ -260,7 +260,6 @@ or
 
 Cp setup
 
-
 testcase generator
 
 Login and submit to online Judge
