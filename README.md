@@ -405,7 +405,6 @@ To open config write the following command,
 
 jarvis -config
 
-
 Installation
 Pre-requirements :
 
