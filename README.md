@@ -1,4 +1,4 @@
-**AI Virtual Assitant  By Muhammad Balal Ansar (Cyber**
+**AI Virtual Assitant  By Muhammad Balal Ansar (Cyber **
 
 <img width="1366" height="768" alt="jarvis welcome screen" src="https://github.com/user-attachments/assets/9647740e-1c3b-4833-8790-797bb69e871b" />
 
